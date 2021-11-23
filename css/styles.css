@@ -1,0 +1,19 @@
+.texto{
+    text-align: center;
+}
+
+
+.list-even tr:nth-child(even) {
+    background-color: #D6EEEE;
+}
+
+.list-odd tr:nth-child(odd) {
+    background-color: #D6EEEE;
+}
+
+
+table{
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 10px;
+}
